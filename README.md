@@ -15,7 +15,7 @@ This README effectively conveys the following:
 - **The purpose of the repository**: storing competitive programming solutions.
 - **The programming languages used**: C, C++, and Java.
 - **The source of the problems**: Codeforces.
-- **Intent**: to showcase my problem-solving skills.
+- **Intent**: to showcase my problem-solving  skills, practice algorithms and data structures, and improve coding efficiency skills.
 - **Encouragement**: for others to learn from my solutions.
 
 ---
